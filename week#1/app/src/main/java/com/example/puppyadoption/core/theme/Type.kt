@@ -1,4 +1,4 @@
-package com.example.puppyadoption.ui.theme
+package com.example.puppyadoption.core.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
